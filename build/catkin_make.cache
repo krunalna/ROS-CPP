@@ -1,0 +1,2 @@
+my_package:topic_publisher_pkg:topic_subscriber_pkg:topics_quiz
+-DCATKIN_DEVEL_PREFIX=/home/user/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/user/catkin_ws/install -G Unix Makefiles
